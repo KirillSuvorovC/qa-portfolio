@@ -1,5 +1,7 @@
 ### [Теги]: Что произошло? Где? При каком условии?
 
+**Статус**: New
+
 **Окружение**: 
 URL: https://guru.qahacking.ru/index.php/magazin
 
