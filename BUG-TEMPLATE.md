@@ -18,3 +18,5 @@ URL: https://guru.qahacking.ru/index.php/magazin
 
 **Обход бага**: (если есть)
 - <Обход>
+
+**Источники**: (если есть) [TC-000](/test-runs/17-11-2026-test/TC-000.md)
